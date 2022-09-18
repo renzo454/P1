@@ -1,4 +1,4 @@
-package com.example.finalappmovil;
+package com.example.ProyectoCalidad;
 
 import android.content.Context;
 

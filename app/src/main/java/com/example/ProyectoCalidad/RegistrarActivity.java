@@ -1,4 +1,4 @@
-package com.example.finalappmovil;
+package com.example.ProyectoCalidad;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;

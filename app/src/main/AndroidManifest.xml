@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.finalappmovil">
+    package="com.example.ProyectoCalidad">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -10,51 +10,51 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.FinalAppMovil">
+        android:theme="@style/Theme.AppCompat.Light">
         <activity
-            android:name=".gracias"
+            android:name="com.example.ProyectoCalidad.gracias"
             android:exported="false" />
         <activity
-            android:name=".datosTarjeta"
+            android:name="com.example.ProyectoCalidad.datosTarjeta"
             android:exported="false" />
         <activity
-            android:name=".confirmarPedido"
+            android:name="com.example.ProyectoCalidad.confirmarPedido"
             android:exported="false" />
         <activity
-            android:name=".listadeBebidas"
+            android:name="com.example.ProyectoCalidad.listadeBebidas"
             android:exported="false" />
         <activity
-            android:name=".Menuwhisky"
+            android:name="com.example.ProyectoCalidad.Menuwhisky"
             android:exported="false"
-            android:parentActivityName=".listadeBebidas" />
+            android:parentActivityName="com.example.ProyectoCalidad.listadeBebidas" />
         <activity
-            android:name=".Menuvodka"
+            android:name="com.example.ProyectoCalidad.Menuvodka"
             android:exported="false"
-            android:parentActivityName=".listadeBebidas" />
+            android:parentActivityName="com.example.ProyectoCalidad.listadeBebidas" />
         <activity
-            android:name=".Menuvino"
+            android:name="com.example.ProyectoCalidad.Menuvino"
             android:exported="false"
-            android:parentActivityName=".listadeBebidas" />
+            android:parentActivityName="com.example.ProyectoCalidad.listadeBebidas" />
         <activity
-            android:name=".Menuron"
+            android:name="com.example.ProyectoCalidad.Menuron"
             android:exported="false"
-            android:parentActivityName=".listadeBebidas" />
+            android:parentActivityName="com.example.ProyectoCalidad.listadeBebidas" />
         <activity
-            android:name=".Menupisco"
+            android:name="com.example.ProyectoCalidad.Menupisco"
             android:exported="false"
-            android:parentActivityName=".listadeBebidas" />
+            android:parentActivityName="com.example.ProyectoCalidad.listadeBebidas" />
         <activity
-            android:name=".Menucerveza"
+            android:name="com.example.ProyectoCalidad.Menucerveza"
             android:exported="false"
-            android:parentActivityName=".listadeBebidas" />
+            android:parentActivityName="com.example.ProyectoCalidad.listadeBebidas" />
         <activity
-            android:name=".RegistrarActivity"
+            android:name="com.example.ProyectoCalidad.RegistrarActivity"
             android:exported="false" />
         <activity
-            android:name=".loginActivity"
+            android:name="com.example.ProyectoCalidad.loginActivity"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name="com.example.ProyectoCalidad.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
