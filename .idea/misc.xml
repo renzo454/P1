@@ -18,6 +18,22 @@
         <entry key="..\:/Android/FinalAppMovil/app/src/main/res/layout/activity_registrar.xml" value="0.36666666666666664" />
         <entry key="..\:/Android/FinalAppMovil/app/src/main/res/layout/login.xml" value="0.36666666666666664" />
         <entry key="..\:/Android/ProyectoCalidad/app/src/main/res/layout/activity_main.xml" value="0.29270833333333335" />
+        <entry key="..\:/Users/dleon/StudioProjects/P1/app/src/main/res/layout/activity_confirmar_pedido.xml" value="0.25769927536231885" />
+        <entry key="..\:/Users/dleon/StudioProjects/P1/app/src/main/res/layout/activity_consulta_administrador.xml" value="0.5" />
+        <entry key="..\:/Users/dleon/StudioProjects/P1/app/src/main/res/layout/activity_datos_tarjeta.xml" value="0.25769927536231885" />
+        <entry key="..\:/Users/dleon/StudioProjects/P1/app/src/main/res/layout/activity_estado_producto.xml" value="0.33" />
+        <entry key="..\:/Users/dleon/StudioProjects/P1/app/src/main/res/layout/activity_gestion_producto.xml" value="0.33" />
+        <entry key="..\:/Users/dleon/StudioProjects/P1/app/src/main/res/layout/activity_gracias.xml" value="0.25769927536231885" />
+        <entry key="..\:/Users/dleon/StudioProjects/P1/app/src/main/res/layout/activity_listade_bebidas.xml" value="0.25769927536231885" />
+        <entry key="..\:/Users/dleon/StudioProjects/P1/app/src/main/res/layout/activity_login.xml" value="0.25769927536231885" />
+        <entry key="..\:/Users/dleon/StudioProjects/P1/app/src/main/res/layout/activity_main.xml" value="0.25769927536231885" />
+        <entry key="..\:/Users/dleon/StudioProjects/P1/app/src/main/res/layout/activity_menucerveza.xml" value="0.25769927536231885" />
+        <entry key="..\:/Users/dleon/StudioProjects/P1/app/src/main/res/layout/activity_menuvino.xml" value="0.25769927536231885" />
+        <entry key="..\:/Users/dleon/StudioProjects/P1/app/src/main/res/layout/activity_menuvodka.xml" value="0.25769927536231885" />
+        <entry key="..\:/Users/dleon/StudioProjects/P1/app/src/main/res/layout/activity_modificar_pedido.xml" value="0.25769927536231885" />
+        <entry key="..\:/Users/dleon/StudioProjects/P1/app/src/main/res/layout/activity_modificar_producto.xml" value="0.25769927536231885" />
+        <entry key="..\:/Users/dleon/StudioProjects/P1/app/src/main/res/layout/activity_registro_producto.xml" value="0.25769927536231885" />
+        <entry key="..\:/Users/dleon/StudioProjects/P1/app/src/main/res/layout/activity_vista_administrador.xml" value="0.25769927536231885" />
       </map>
     </option>
   </component>

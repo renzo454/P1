@@ -2,6 +2,33 @@
     <string name="app_name">ProyectoCalidad</string>
     <string name="btn_IniciarSesion">Iniciar Sesion</string>
     <string name="btn_Registrar">Registrar</string>
-
+    <string name="administrador">Administrador</string>
+    <string name="nuevo_registro">Nuevo Registro</string>
+    <string name="bienvenido">BIENVENIDO</string>
+    <string name="modificar">Modificar</string>
+    <string name="consultar">Consultar</string>
+    <string name="hint">hint</string>
+    <string name="ingrese_consulta">Ingrese consulta</string>
+    <string name="todo">TODO</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="deshabilitar">DESHABILITAR</string>
+    <string name="precio_s">Precio S/.</string>
+    <string name="ingrese_id_producto">Ingrese ID producto</string>
+    <string name="ingrese_nombre_producto">Ingrese nombre producto</string>
+    <string name="buscar">BUSCAR</string>
+    <string name="categoria">Categoria</string>
+    <string name="id_producto">ID Producto</string>
+    <string name="registrar">REGISTRAR</string>
+    <string name="ingrese_marca_del_producto">Ingrese marca del producto</string>
+    <string name="ingrese_categoria_del_producto">Ingrese categoria del producto</string>
+    <string name="ver_lista">VER LISTA</string>
+    <string name="ingrese_clase_del_producto">Ingrese clase del producto</string>
+    <string name="marca">Marca</string>
+    <string name="ingrese_descripcion_max_250">Ingrese descripcion(Max. 250)</string>
+    <string name="clase">Clase</string>
+    <string name="nombre">Nombre</string>
+    <string name="ingrese_monto">Ingrese monto</string>
+    <string name="modificar_producto">MODIFICAR</string>
+    <string name="todo_1">TODO</string>
 
 </resources>
